@@ -1,15 +1,15 @@
-# Jester Free
+# Jesteroth
 Makes the jesters cranking a Free Bird intro and its scream the Free Bird guitar solo<br>
 Also allows to configure if you want to enable the intro/solo, as well as change their volume
 
 If you really want to, it's also possible to change the intro/solo to your own audio,<br>
 all you have to do is replace `intro.wav` or `solo.wav` with something of your liking
 
-## Manual Installation (if downloaded from [thunderstore](https://thunderstore.io/c/lethal-company/p/AriDev/JesterFree/) or [github releases](https://github.com/AriDeve/JesterFree/releases))
+## Manual Installation (if downloaded from [thunderstore](https://thunderstore.io/c/lethal-company/p/SolAZDev/Jesteroth/) or [github releases](https://github.com/SolAZDeve/Jesteroth/releases))
 1. Download manually from the website
 2. Install BepInEx
 3. Install LCSoundTool
-4. Extract `JesterFree.dll`, `intro.wav` and `solo.wav` into the `plugins` folder of BepInEx (Preferably into a separate folder)
+4. Extract `Jesteroth.dll`, `intro.wav` and `solo.wav` into the `plugins` folder of BepInEx (Preferably into a separate folder)
 
 ## Credit
 - atg FreeJester for the inspiration
